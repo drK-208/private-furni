@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "prop_id": "Item 1",
+      "prop_name": "Description for Item 1"
+    },
+    {
+      "id": 2,
+      "prop_id": "Item 2",
+      "prop_name": "Description for Item 2"
+    },
+    {
+        "id": 3,
+        "prop_id": "Item 3",
+        "prop_name": "Description for Item 2"
+    },
+    {
+        "id": 4,
+        "prop_id": "Item 4",
+        "prop_name": "Description for Item 2"
+    },
+    {
+        "id": 5,
+        "prop_id": "Item 5",
+        "prop_name": "Description for Item 2"
+    }
+]
